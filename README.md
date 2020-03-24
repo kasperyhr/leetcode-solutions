@@ -32,4 +32,4 @@
 
 Number|Problem Name                             |Difficulty|Solution|Leetcode Link
 ------|-----------------------------------------|----------|--------|--------------------------------------------------------------------------------
-0001  |Two Sum                                  |Easy      |        |[here](https://leetcode.com/problems/two-sum/?target=_blank)
+0001  |Two Sum                                  |Easy      |        |<a href="https://leetcode.com/problems/two-sum/" target="_blank">here</a>
