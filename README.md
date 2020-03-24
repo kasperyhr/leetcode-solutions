@@ -30,6 +30,35 @@
 
 ## Problem Checklist:
 
-Number|Problem Name                             |Difficulty|Solution                                             |Leetcode Link
-------|-----------------------------------------|----------|-----------------------------------------------------|---------------------------------------
-0001  |Two Sum                                  |Easy      |[here](Solutions/0001.Two_Sum/)                      |[here](https://leetcode.com/problems/two-sum/)
+Number|Problem Name|Difficulty|Solution|Leetcode Link
+------|------------|----------|--------|-------------
+0001|Two Sum|Easy-|[Solution](Solutions/0001.Two_Sum/)|[Problem](https://leetcode.com/problems/two-sum/)
+0002|Add Two Numbers|Easy|Solution|[Problem](https://leetcode.com/problems/add-two-numbers/)
+0003|Longest Substring Without Repeating Characters|TBD|Solution|[Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+0004|Median of Two Sorted Arrays|TBD|Solution|[Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+0005|Longest Palindromic Substring|TBD|Solution|[Problem](https://leetcode.com/problems/longest-palindromic-substring/)
+0006|ZigZag Conversion|TBD|Solution|[Problem](https://leetcode.com/problems/zigzag-conversion/)
+0007|Reverse Integer|TBD|Solution|[Problem](https://leetcode.com/problems/reverse-integer/)
+0008|String to Integer (atoi)|TBD|Solution|[Problem](https://leetcode.com/problems/string-to-integer-atoi/)
+0009|Palindrome Number|TBD|Solution|[Problem](https://leetcode.com/problems/palindrome-number/)
+0010|Regular Expression Matching|TBD|Solution|[Problem](https://leetcode.com/problems/regular-expression-matching/)
+0011|Container With Most Water|TBD|Solution|[Problem](https://leetcode.com/problems/container-with-most-water/)
+0012|Integer to Roman|TBD|Solution|[Problem](https://leetcode.com/problems/integer-to-roman/)
+0013|Roman to Integer|TBD|Solution|[Problem](https://leetcode.com/problems/roman-to-integer/)
+0014|Longest Common Prefix|TBD|Solution|[Problem](https://leetcode.com/problems/longest-common-prefix/)
+0015|3Sum|TBD|Solution|[Problem](https://leetcode.com/problems/3sum/)
+0016|3Sum Closest|TBD|Solution|[Problem](https://leetcode.com/problems/3sum-closest/)
+0017|Letter Combinations of a Phone Number|TBD|Solution|[Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+0018|4Sum|TBD|Solution|[Problem](https://leetcode.com/problems/4sum/)
+0019|Remove Nth Node From End of List|TBD|Solution|[Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+0020|Valid Parentheses|TBD|Solution|[Problem](https://leetcode.com/problems/valid-parentheses/)
+0021|Merge Two Sorted Lists|TBD|Solution|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
+0022|Generate Parentheses|TBD|Solution|[Problem](https://leetcode.com/problems/generate-parentheses/)
+0023|Merge k Sorted Lists|TBD|Solution|[Problem](https://leetcode.com/problems/merge-k-sorted-lists/)
+0024|Swap Nodes in Pairs|TBD|Solution|[Problem](https://leetcode.com/problems/swap-nodes-in-pairs/)
+0025|Reverse Nodes in k-Group|TBD|Solution|[Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+0026|Remove Duplicates from Sorted Array|TBD|Solution|[Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+0027|Remove Element|TBD|Solution|[Problem](https://leetcode.com/problems/remove-element/)
+0028|Implement strStr()|TBD|Solution|[Problem](https://leetcode.com/problems/implement-strstr/)
+0029|Divide Two Integers|TBD|Solution|[Problem](https://leetcode.com/problems/divide-two-integers/)
+0030|Substring with Concatenation of All Words|TBD|Solution|[Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
