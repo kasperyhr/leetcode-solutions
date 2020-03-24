@@ -51,7 +51,7 @@ Number|Problem Name|Difficulty|Solution|Leetcode Link
 0017|Letter Combinations of a Phone Number|TBD|Solution|[Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 0018|4Sum|TBD|Solution|[Problem](https://leetcode.com/problems/4sum/)
 0019|Remove Nth Node From End of List|TBD|Solution|[Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-0020|Valid Parentheses|TBD|Solution|[Problem](https://leetcode.com/problems/valid-parentheses/)
+0020|Valid Parentheses|Easy-|[Solution](Solutions/0020.Valid_Parentheses)|[Problem](https://leetcode.com/problems/valid-parentheses/)
 0021|Merge Two Sorted Lists|TBD|Solution|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
 0022|Generate Parentheses|TBD|Solution|[Problem](https://leetcode.com/problems/generate-parentheses/)
 0023|Merge k Sorted Lists|TBD|Solution|[Problem](https://leetcode.com/problems/merge-k-sorted-lists/)
