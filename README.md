@@ -4,7 +4,7 @@
 
 1. [Two Pointers](./Two_Pointers/) (Not Ready)
 2. [Binary Search](./Binary_Search/) (Not Ready)
-3. [Hash Table](./Hash_Table/) (Not Ready)
+3. [Hash Table](./Hash_Table/)
 4. [Heap](./Heap/) (Not Ready)
 5. [Tree](./Tree/) (Not Ready)
 6. [Segment Tree](./Segment_Tree/) (Not Ready)
@@ -30,6 +30,6 @@
 
 ## Problem Checklist:
 
-Number|Problem Name                             |Difficulty|Solution|Leetcode Link
-------|-----------------------------------------|----------|--------|--------------------------------------------------------------------------------
-0001  |Two Sum                                  |Easy      |        |[here](https://leetcode.com/problems/two-sum/)
+Number|Problem Name                             |Difficulty|Solution                                             |Leetcode Link
+------|-----------------------------------------|----------|-----------------------------------------------------|---------------------------------------
+0001  |Two Sum                                  |Easy      |[here](Solutions/0001.Two_Sum/)                      |[here](https://leetcode.com/problems/two-sum/)
