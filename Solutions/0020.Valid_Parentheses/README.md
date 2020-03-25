@@ -45,6 +45,8 @@ Input: "{[]}"
 Output: true
 ```
 
+[Leetcode Link](https://leetcode.com/problems/valid-parentheses/)
+
 ## 思路
 
 这道题经典的stack题。
@@ -79,6 +81,5 @@ class Solution {
 }
 ```
 
-Topic: [Stack](/Stack/)
-
-[Leetcode Link](https://leetcode.com/problems/valid-parentheses/)
+## 相关知识点
++ [Stack](/Stack/)

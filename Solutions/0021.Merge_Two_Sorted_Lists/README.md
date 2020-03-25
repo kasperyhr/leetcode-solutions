@@ -10,6 +10,8 @@ Input: 1->2->4, 1->3->4
 Output: 1->1->2->3->4->4
 ```
 
+[Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
+
 ## 思路
 Linked List常考笔试题，一般用作第一轮笔试。
 
@@ -52,6 +54,7 @@ class Solution {
 }
 ```
 
-Topic: [Linked List](/Linked_List/)
+## 相关知识点
 
-[Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
++ [Linked List](/Linked_List/)
+

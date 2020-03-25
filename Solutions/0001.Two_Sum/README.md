@@ -15,6 +15,8 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
+[Leetcode Link](https://leetcode.com/problems/two-sum/)
+
 ## 思路
 
 这道题是最经典的一道题，任何学过算法的同学接触的第一道题就是这道。用一个hash table去存，key是这个index对应的数，value是这个index。
@@ -38,6 +40,7 @@ class Solution {
 }
 ```
 
-Topic: [Hash Table](/Hash_Table/)
+## 相关知识点
 
-[Leetcode Link](https://leetcode.com/problems/two-sum/)
++ [Hash Table](/Hash_Table/)
+
