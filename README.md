@@ -145,3 +145,4 @@ Number|Problem Name|Difficulty|Solution|Leetcode Link
 0110|Balanced Binary Tree|TBD|Solution|[Problem](https://leetcode.com/problems/balanced-binary-tree/)
 0111|Minimum Depth of Binary Tree|TBD|Solution|[Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 0112|Path Sum|TBD|Solution|[Problem](https://leetcode.com/problems/path-sum/)
+0113|
