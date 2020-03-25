@@ -1,5 +1,14 @@
 # 0021.Merge Two Sorted Lists
 
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+**Example:**
+
+```markdown
+**Input**: 1->2->4, 1->3->4
+**Output**: 1->1->2->3->4->4
+```
+
 Linked List常考笔试题，一般用作第一轮笔试。
 
 只要两个list都不是null，那么选出较小者。如果有一个变成了null，那么跳出循环，并根据哪个list不是null，把剩下部分接上即可。

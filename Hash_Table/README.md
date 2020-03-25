@@ -6,4 +6,4 @@
 
 Number|Problem Name|Difficulty|Solution|Leetcode Link
 ------|------------|----------|--------|-------------
-0001|Two Sum|Easy-|[Solution](../Solutions/0001.Two_Sum/)|[Problem](https://leetcode.com/problems/two-sum/)
+0001|Two Sum|Easy-|[Solution](/Solutions/0001.Two_Sum/)|[Problem](https://leetcode.com/problems/two-sum/)

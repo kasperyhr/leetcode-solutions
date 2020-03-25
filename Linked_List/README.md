@@ -9,4 +9,4 @@
 
 Number|Problem Name|Difficulty|Solution|Leetcode Link
 ------|------------|----------|--------|-------------
-0021|Merge Two Sorted Lists|Easy-|[Solution](../Solutions/0021.Merge_Two_Sorted_Lists/)|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
+0021|Merge Two Sorted Lists|Easy-|[Solution](/Solutions/0021.Merge_Two_Sorted_Lists/)|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/)

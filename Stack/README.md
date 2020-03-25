@@ -6,4 +6,4 @@
 
 Number|Problem Name|Difficulty|Solution|Leetcode Link
 ------|------------|----------|--------|-------------
-0020|Valid Parentheses|Easy-|[Solution](../Solutions/0020.Valid_Parentheses/)|[Problem](https://leetcode.com/problems/valid-parentheses/)
+0020|Valid Parentheses|Easy-|[Solution](/Solutions/0020.Valid_Parentheses/)|[Problem](https://leetcode.com/problems/valid-parentheses/)
