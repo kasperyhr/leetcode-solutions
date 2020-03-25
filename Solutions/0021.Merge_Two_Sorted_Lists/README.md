@@ -4,9 +4,9 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 
 **Example:**
 
-```markdown
-**Input**: 1->2->4, 1->3->4
-**Output**: 1->1->2->3->4->4
+```
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
 ```
 
 Linked List常考笔试题，一般用作第一轮笔试。

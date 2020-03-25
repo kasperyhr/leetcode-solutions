@@ -11,37 +11,37 @@ Note that an empty string is also considered valid.
 
 **Example 1:**
 
-```markdown
-**Input**: "()"
-**Output**: true
+```
+Input: "()"
+Output: true
 ```
 
 **Example 2:**
 
-```markdown
-**Input**: "()[]{}"
-**Output**: true
+```
+Input: "()[]{}"
+Output: true
 ```
 
 **Example 3:**
 
-```markdown
-**Input**: "(]"
-**Output**: false
+```
+Input: "(]"
+Output: false
 ```
 
 **Example 4:**
 
-```markdown
-**Input**: "([)]"
-**Output**: false
+```
+Input: "([)]"
+Output: false
 ```
 
 **Example 5:**
 
-```markdown
-**Input**: "{[]}"
-**Output**: true
+```
+Input: "{[]}"
+Output: true
 ```
 
 这道题经典的stack题。
