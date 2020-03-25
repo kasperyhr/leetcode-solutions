@@ -30,6 +30,6 @@ class Solution {
 }
 ```
 
-Topic: [Stack](../Stack)
+Topic: [Stack](/Stack/)
 
 [Leetcode Link](https://leetcode.com/problems/valid-parentheses/)

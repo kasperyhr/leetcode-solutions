@@ -19,6 +19,6 @@ class Solution {
 }
 ```
 
-Topic: [Hash Table](../Hash_Table)
+Topic: [Hash Table](/Hash_Table/)
 
 [Leetcode Link](https://leetcode.com/problems/two-sum/)

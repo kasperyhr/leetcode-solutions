@@ -41,6 +41,6 @@ class Solution {
 }
 ```
 
-Topic: [Stack](../Linked_List/)
+Topic: [Linked List](/Linked_List/)
 
 [Leetcode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
