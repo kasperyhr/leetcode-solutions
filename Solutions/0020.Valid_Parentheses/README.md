@@ -1,4 +1,4 @@
-# 0020.Two Sum
+# 0020.Valid Parentheses
 
 这道题经典的stack题。
 
@@ -30,6 +30,6 @@ class Solution {
 }
 ```
 
-Topic: [Stack](../Stack)
+Topic: [Linked List](../Linked_List)
 
 [Leetcode Link](https://leetcode.com/problems/valid-parentheses/)
