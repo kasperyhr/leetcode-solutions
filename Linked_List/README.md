@@ -7,6 +7,6 @@
 
 ## Problem Checklist:
 
-Number|Problem Name|Difficulty|Solution|Leetcode Link
-------|------------|----------|--------|-------------
-0021|Merge Two Sorted Lists|Easy-|[Solution](/Solutions/0021.Merge_Two_Sorted_Lists/)|[Problem](https://leetcode.com/problems/merge-two-sorted-lists/)
+Number|Problem Name|Difficulty|Solution
+------|------------|----------|--------
+0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy-|[Solution](/Solutions/0021.Merge_Two_Sorted_Lists/)

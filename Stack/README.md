@@ -4,6 +4,6 @@
 
 ## Problem Checklist:
 
-Number|Problem Name|Difficulty|Solution|Leetcode Link
-------|------------|----------|--------|-------------
-0020|Valid Parentheses|Easy-|[Solution](/Solutions/0020.Valid_Parentheses/)|[Problem](https://leetcode.com/problems/valid-parentheses/)
+Number|Problem Name|Difficulty|Solution
+------|------------|----------|--------
+0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy-|[Solution](/Solutions/0020.Valid_Parentheses/)
