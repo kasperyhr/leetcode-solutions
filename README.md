@@ -29,7 +29,7 @@
 25. [Array](/Array/) (Not Ready)
 26. [Others](/Others/) (Not Ready)
 
-## Problem Checklist (3/1277):
+## Problem Checklist (3/1281):
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
@@ -345,3 +345,123 @@ Number|Problem Name|Difficulty|Solution
 0327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|TBD|Solution
 0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|TBD|Solution
 0329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|TBD|Solution
+0330|[Patching Array](https://leetcode.com/problems/patching-array/)|TBD|Solution
+0331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|TBD|Solution
+0332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|TBD|Solution
+0333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|TBD|Solution
+0334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|TBD|Solution
+0335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|TBD|Solution
+0336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|TBD|Solution
+0337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|TBD|Solution
+0338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|TBD|Solution
+0339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|TBD|Solution
+0340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|TBD|Solution
+0341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|TBD|Solution
+0342|[Power of Four](https://leetcode.com/problems/power-of-four/)|TBD|Solution
+0343|[Integer Break](https://leetcode.com/problems/integer-break/)|TBD|Solution
+0344|[Reverse String](https://leetcode.com/problems/reverse-string/)|TBD|Solution
+0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|TBD|Solution
+0346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|TBD|Solution
+0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|TBD|Solution
+0348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|TBD|Solution
+0349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|TBD|Solution
+0350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|TBD|Solution
+0351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|TBD|Solution
+0352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|TBD|Solution
+0353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|TBD|Solution
+0354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|TBD|Solution
+0355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|TBD|Solution
+0356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|TBD|Solution
+0357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|TBD|Solution
+0358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)|TBD|Solution
+0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|TBD|Solution
+0360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|TBD|Solution
+0361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|TBD|Solution
+0362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|TBD|Solution
+0363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|TBD|Solution
+0364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|TBD|Solution
+0365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|TBD|Solution
+0366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|TBD|Solution
+0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|TBD|Solution
+0368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|TBD|Solution
+0369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|TBD|Solution
+0370|[Range Addition](https://leetcode.com/problems/range-addition/)|TBD|Solution
+0371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|TBD|Solution
+0372|[Super Pow](https://leetcode.com/problems/super-pow/)|TBD|Solution
+0373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|TBD|Solution
+0374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|TBD|Solution
+0375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|TBD|Solution
+0376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|TBD|Solution
+0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|TBD|Solution
+0378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|TBD|Solution
+0379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|TBD|Solution
+0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|TBD|Solution
+0381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|TBD|Solution
+0382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|TBD|Solution
+0383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|TBD|Solution
+0384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|TBD|Solution
+0385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|TBD|Solution
+0386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|TBD|Solution
+0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|TBD|Solution
+0388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|TBD|Solution
+0389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|TBD|Solution
+0390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|TBD|Solution
+0391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|TBD|Solution
+0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|TBD|Solution
+0393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|TBD|Solution
+0394|[Decode String](https://leetcode.com/problems/decode-string/)|TBD|Solution
+0395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|TBD|Solution
+0396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|TBD|Solution
+0397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|TBD|Solution
+0398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|TBD|Solution
+0399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|TBD|Solution
+0400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|TBD|Solution
+0401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|TBD|Solution
+0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|TBD|Solution
+0403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|TBD|Solution
+0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|TBD|Solution
+0405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|TBD|Solution
+0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|TBD|Solution
+0407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|TBD|Solution
+0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)|TBD|Solution
+0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|TBD|Solution
+0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|TBD|Solution
+0411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/)|TBD|Solution
+0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|TBD|Solution
+0413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|TBD|Solution
+0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|TBD|Solution
+0415|[Add Strings](https://leetcode.com/problems/add-strings/)|TBD|Solution
+0416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|TBD|Solution
+0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|TBD|Solution
+0418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|TBD|Solution
+0419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|TBD|Solution
+0420|[Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)|TBD|Solution
+0421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|TBD|Solution
+0422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/)|TBD|Solution
+0423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|TBD|Solution
+0424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|TBD|Solution
+0425|[Word Squares](https://leetcode.com/problems/word-squares/)|TBD|Solution
+0426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|TBD|Solution
+0427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|TBD|Solution
+0428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|TBD|Solution
+0429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|TBD|Solution
+0430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|TBD|Solution
+0431|[Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/)|TBD|Solution
+0432|[All O-one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|TBD|Solution
+0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|TBD|Solution
+0434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|TBD|Solution
+0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|TBD|Solution
+0436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|TBD|Solution
+0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|TBD|Solution
+0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|TBD|Solution
+0439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/)|TBD|Solution
+0440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|TBD|Solution
+0441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|TBD|Solution
+0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|TBD|Solution
+0443|[String Compression](https://leetcode.com/problems/string-compression/)|TBD|Solution
+0444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)|TBD|Solution
+0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|TBD|Solution
+0446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|TBD|Solution
+0447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|TBD|Solution
+0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|TBD|Solution
+0449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|TBD|Solution
