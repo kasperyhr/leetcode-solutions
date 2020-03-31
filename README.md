@@ -19,7 +19,7 @@
 15. [Dynamic Programming](/Dynamic_Programming/) (Not Ready)
 16. [Bit Manipulation](/Bit_Manipulation/) (Not Ready)
 17. [Divide and Conquer](/Divide_and_Conquer/) (Not Ready)
-18. [String](/String/) (Not Ready)
+18. [String](/String/)
 19. [Sort](/Sort/) (Not Ready)
 20. [Sweep Line](/Sweep_Line/) (Not Ready)
 21. [Union Find](/Union_Find/) (Not Ready)
@@ -29,11 +29,11 @@
 25. [Array](/Array/) (Not Ready)
 26. [Others](/Others/) (Not Ready)
 
-## Problem Checklist (3/1281):
+## Problem Checklist (4/1281):
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
-0001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy-|[Solution](Solutions/0001.Two_Sum/)
+0001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy-|[Solution](/Solutions/0001.Two_Sum/)
 0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Easy|Solution
 0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|TBD|Solution
 0004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|TBD|Solution
@@ -52,8 +52,8 @@ Number|Problem Name|Difficulty|Solution
 0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|TBD|Solution
 0018|[4Sum](https://leetcode.com/problems/4sum/)|TBD|Solution
 0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|TBD|Solution
-0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy-|[Solution](Solutions/0020.Valid_Parentheses)
-0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy-|[Solution](Solutions/0021.Merge_Two_Sorted_Lists/)
+0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy-|[Solution](/Solutions/0020.Valid_Parentheses)
+0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy-|[Solution](/Solutions/0021.Merge_Two_Sorted_Lists/)
 0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|TBD|Solution
 0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|TBD|Solution
 0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|TBD|Solution
@@ -286,7 +286,7 @@ Number|Problem Name|Difficulty|Solution
 0268|[Missing Number](https://leetcode.com/problems/missing-number/)|TBD|Solution
 0269|[Alien Dictionary]()|TBD|Solution
 0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|TBD|Solution
-0271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|TBD|Solution
+0271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Easy|[Solution](/Solutions/0271.Encode_and_Decode_Strings/)
 0272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|TBD|Solution
 0273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|TBD|Solution
 0274|[H-Index](https://leetcode.com/problems/h-index/)|TBD|Solution
