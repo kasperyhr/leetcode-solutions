@@ -14,4 +14,4 @@ A[l] A[r] ? target
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
-0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|(/Solutions/0069.Sqrt_x/)
+0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Solution](/Solutions/0069.Sqrt_x/)

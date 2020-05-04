@@ -101,7 +101,7 @@ Number|Problem Name|Difficulty|Solution
 0066|[Plus One](https://leetcode.com/problems/plus-one/)|TBD|Solution
 0067|[Add Binary](https://leetcode.com/problems/add-binary/)|TBD|Solution
 0068|[Text Justification](https://leetcode.com/problems/text-justification/)|TBD|Solution
-0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|(/Solutions/0069.Sqrt_x/)
+0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Solution](/Solutions/0069.Sqrt_x/)
 0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|TBD|Solution
 0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|TBD|Solution
 0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|TBD|Solution
