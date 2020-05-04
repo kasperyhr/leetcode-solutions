@@ -3,7 +3,7 @@
 我将题目按照知识点进行分类，只要是属于该知识点，或者和该知识点相关的，我都会放在该知识点下。
 
 1. [Two Pointers](/Two_Pointers/) (Not Ready)
-2. [Binary Search](/Binary_Search/) (Not Ready)
+2. [Binary Search](/Binary_Search/)
 3. [Hash Table](/Hash_Table/)
 4. [Heap](/Heap/) (Not Ready)
 5. [Tree](/Tree/) (Not Ready)
