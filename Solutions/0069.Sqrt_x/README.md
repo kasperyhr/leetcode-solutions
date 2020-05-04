@@ -1,4 +1,4 @@
-# 0069. Sqrt(x) (Easy)
+# 0069. Sqrt(x) (Easy-)
 
 ## 题目
 

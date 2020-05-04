@@ -29,7 +29,7 @@
 25. [Array](/Array/) (Not Ready)
 26. [Others](/Others/) (Not Ready)
 
-## Problem Checklist (6/1318 = 0.46%):
+## Problem Checklist (7/1318 = 0.53%):
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
@@ -67,7 +67,7 @@ Number|Problem Name|Difficulty|Solution
 0032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|TBD|Solution
 0033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|TBD|Solution
 0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|TBD|Solution
-0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|TBD|Solution
+0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy-|[Solution](/Solutions/0035.Search_Insert_Position/)
 0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|TBD|Solution
 0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|TBD|Solution
 0038|[Count and Say](https://leetcode.com/problems/count-and-say/)|TBD|Solution
@@ -101,7 +101,7 @@ Number|Problem Name|Difficulty|Solution
 0066|[Plus One](https://leetcode.com/problems/plus-one/)|TBD|Solution
 0067|[Add Binary](https://leetcode.com/problems/add-binary/)|TBD|Solution
 0068|[Text Justification](https://leetcode.com/problems/text-justification/)|TBD|Solution
-0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Solution](/Solutions/0069.Sqrt_x/)
+0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy-|[Solution](/Solutions/0069.Sqrt_x/)
 0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|TBD|Solution
 0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|TBD|Solution
 0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|TBD|Solution
@@ -686,7 +686,7 @@ Number|Problem Name|Difficulty|Solution
 0701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|TBD|Solution
 0702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|TBD|Solution
 0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|TBD|Solution
-0704|[Binary Search](https://leetcode.com/problems/binary-search/)|TBD|[Solution](/Solutions/0704.Binary_Search)
+0704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy-|[Solution](/Solutions/0704.Binary_Search/)
 0705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|TBD|Solution
 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|TBD|Solution
 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|TBD|Solution
