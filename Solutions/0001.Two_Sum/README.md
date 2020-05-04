@@ -42,5 +42,5 @@ class Solution {
 
 ## 相关知识点
 
-+ [Hash Table](/Topic/Hash_Table/)
++ [Hash Table](/Topics/Hash_Table/)
 

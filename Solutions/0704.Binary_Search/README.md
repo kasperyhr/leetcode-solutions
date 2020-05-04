@@ -57,4 +57,4 @@ class Solution {
 
 ## 相关知识点
 
-+ [Binary Search](/Topic/Binary_Search/)
++ [Binary Search](/Topics/Binary_Search/)
