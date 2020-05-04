@@ -154,7 +154,7 @@ Number|Problem Name|Difficulty|Solution
 0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|TBD|Solution
 0120|[Triangle](https://leetcode.com/problems/triangle/)|TBD|Solution
 0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|TBD|Solution
-0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Solution
+0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|TBD|Solution
 0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|TBD|Solution
 0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|TBD|Solution
 0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|TBD|Solution
