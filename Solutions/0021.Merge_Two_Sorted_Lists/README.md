@@ -58,5 +58,5 @@ class Solution {
 
 ## 相关知识点
 
-+ [Linked List](/Linked_List/)
++ [Linked List](/Topic/Linked_List/)
 

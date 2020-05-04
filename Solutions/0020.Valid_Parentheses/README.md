@@ -83,4 +83,5 @@ class Solution {
 ```
 
 ## 相关知识点
-+ [Stack](/Stack/)
+
++ [Stack](/Topic/Stack/)
