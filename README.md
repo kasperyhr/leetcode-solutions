@@ -29,7 +29,7 @@
 25. [Array](/Array/) (Not Ready)
 26. [Others](/Others/) (Not Ready)
 
-## Problem Checklist (5/1318 = 0.38%):
+## Problem Checklist (6/1318 = 0.46%):
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
