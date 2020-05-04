@@ -686,7 +686,7 @@ Number|Problem Name|Difficulty|Solution
 0701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|TBD|Solution
 0702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|TBD|Solution
 0703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|TBD|Solution
-0704|[Binary Search](https://leetcode.com/problems/binary-search/)|TBD|Solution
+0704|[Binary Search](https://leetcode.com/problems/binary-search/)|TBD|[Solution](/Solutions/0704.Binary_Search)
 0705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|TBD|Solution
 0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|TBD|Solution
 0707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|TBD|Solution

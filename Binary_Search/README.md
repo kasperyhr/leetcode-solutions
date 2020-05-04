@@ -15,3 +15,4 @@ A[l] A[r] ? target
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
 0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Easy|[Solution](/Solutions/0069.Sqrt_x/)
+0704|[Binary Search](https://leetcode.com/problems/binary-search/)|TBD|[Solution](/Solutions/0704.Binary_Search)

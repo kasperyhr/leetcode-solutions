@@ -25,6 +25,7 @@ Explanation: The square root of 8 is 2.82842..., and since
 [Leetcode Link](https://leetcode.com/problems/sqrtx/)
 
 ## 思路
+
 这道题我们要找到一个最大的整数数`y`使得`y * y <= x`。故，我们可以用二分法找`y`。
 
 ## 答案

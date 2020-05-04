@@ -46,9 +46,13 @@ Output: jkl
 Explanation: Blah
 ```
 
+**Note:**
+1. Blah
+
 [Leetcode Link](https://leetcode.com/)
 
 ## 思路
+
 Placeholder for thoughts.
 
 ## 答案
