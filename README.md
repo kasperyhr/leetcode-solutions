@@ -29,7 +29,7 @@
 25. [Array](/Topics/Array/) (Not Ready)
 26. [Others](/Topics/Others/) (Not Ready)
 
-## Problem Checklist (7/1318 = 0.53%):
+## Problem Checklist (8/1318 = 0.61%):
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
@@ -427,7 +427,7 @@ Number|Problem Name|Difficulty|Solution
 0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|TBD|Solution
 0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|TBD|Solution
 0411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/)|TBD|Solution
-0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|TBD|Solution
+0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy-|[Solution](/Solutions/0412.Fizz_Buzz/)
 0413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|TBD|Solution
 0414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|TBD|Solution
 0415|[Add Strings](https://leetcode.com/problems/add-strings/)|TBD|Solution

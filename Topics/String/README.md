@@ -9,3 +9,4 @@
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
 0271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Easy|[Solution](/Solutions/0271.Encode_and_Decode_Strings/)
+0412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy-|[Solution](/Solutions/0412.Fizz_Buzz/)
