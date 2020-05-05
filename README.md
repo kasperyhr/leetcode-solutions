@@ -1,6 +1,6 @@
 # 这个是我自己整理的leetcode Java版本的题解（或许以后会有更多版本的解法）
 
-我将题目按照知识点进行分类，只要是属于该知识点，或者和该知识点相关的，我都会放在该知识点下。
+我将题目按照知识点进行分类，只要是属于该知识点，或者和该知识点相关的，我都会放在该知识点下。如果有链接问题，或者解答提交错误，请在issues指出。
 
 1. [Two Pointers](/Topics/Two_Pointers/) (Not Ready)
 2. [Binary Search](/Topics/Binary_Search/)
@@ -29,7 +29,7 @@
 25. [Array](/Topics/Array/) (Not Ready)
 26. [Others](/Topics/Others/) (Not Ready)
 
-## Problem Checklist (8/1318 = 0.61%):
+## Problem Checklist (9/1318 = 0.68%):
 
 Number|Problem Name|Difficulty|Solution
 ------|------------|----------|--------
@@ -168,7 +168,7 @@ Number|Problem Name|Difficulty|Solution
 0133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|TBD|Solution
 0134|[Gas Station](https://leetcode.com/problems/gas-station/)|TBD|Solution
 0135|[Candy](https://leetcode.com/problems/candy/)|TBD|Solution
-0136|[Single Number](https://leetcode.com/problems/single-number/)|TBD|Solution
+0136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|[Solution](/Solutions/0136.Single_Number/)
 0137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|TBD|Solution
 0138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|TBD|Solution
 0139|[Word Break](https://leetcode.com/problems/word-break/)|TBD|Solution
